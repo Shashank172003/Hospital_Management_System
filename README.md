@@ -3,6 +3,7 @@
 A Java-based desktop application for managing hospital records, patients, appointments, and other administrative tasks using Swing and AWT.
 
 ---
+> 🧑‍💻 **This project was developed as part of my 1st semester MCA curriculum to gain hands-on experience with core Java.**
 
 ## 💡 Features
 
